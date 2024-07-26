@@ -1,3 +1,3 @@
 # Cluster_analysis
 
-Cluster analysis with dimensionality reduction.
+Cluster analysis of an e-commerce dataset including dimensionality reduction.
